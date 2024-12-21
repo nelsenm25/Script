@@ -1,8 +1,3 @@
-/**
- * Hi! You might have opened this file to learn something new, but be careful because this file is quite old and therefore
- * a little bit messy. The other files are slightly better though and they will be it even more in the next update.
- */
-
 import {
     EffectTypes,
     GameMode,
